@@ -3,7 +3,7 @@
 ### Tools used:
 1. Claude Code
 2. Python
-3. Libraries Cloudfare and 
+3. Libraries Cloudscraper and beautifulsoup4
 
 
 ### Link: https://minecraft-archive.fandom.com/robots.txt
